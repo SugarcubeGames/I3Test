@@ -51,6 +51,9 @@ ExportedObj/
 # Unity3D generated file on crash reports
 sysinfo.txt
 
+#Excluded for size
+build.bc
+
 # Builds
 *.apk
 *.unitypackage
